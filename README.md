@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ En 2023 decidí embarcarme hacia una nueva aventura y buscar mi lugar en el mundo del desarrollo de software<br>📚  A día de hoy, sigo creciendo como Desarrollador, además de aspirar a formar parte de un equipo donde pueda contribuir con mi entusiasmo y mi pasión por la tecnología.<br><br>🎯 Experiencia en desarrollo web Back-end :<br>. Lenguajes : Java, Python<br>. Frameworks : Spring, Django<br>. Diseño y administración de BBDD relacionales : MySQL Workbench<br>. Tecnologías Java : JPA (Java Persistence API), Hibernate (ORM), sentencias JPQL<br>. Gestor de dependencias : Maven<br>. Control de versiones : Git, Github<br><br>🌟Experiencia en desarrollo web Front-end : <br>. HTML5, CSS, JavaScript<br><br>¡Gracias por leerme!</p>
+<p align="left">✨ En 2023 decidí embarcarme hacia una nueva aventura y buscar mi lugar en el mundo del desarrollo de software<br>📚  A día de hoy, sigo creciendo como Desarrollador, además de aspirar a formar parte de un equipo donde pueda contribuir con mi entusiasmo y mi pasión por la tecnología.<br><br>🎯 Experiencia en desarrollo web Back-end :<br>. Lenguajes : Java, Python<br>. Frameworks : Spring(Spring Boot, Spring Data JPA, Spring MVC)LombokDjango<br>. Bases de datos relacionales (BBDD):
+MySQL, Consultas (SQL/JPQL.)<br>. JPA/Hibernate (ORM), mapeo objetorelacional<br>. Gestor de dependencias : Maven<br>. <br> Frontend: HTML5, CSS, JavaScript | Framework Angular</br>Control de versiones : Git, Github<br><br> <br>Metodologías ágiles: Scrum (entrega incremental, adaptación continua)</br>🌟Experiencia en desarrollo web Front-end : <br>. HTML5, CSS, JavaScript<br><br>¡Gracias por leerme!</p>
 
 ###
 
